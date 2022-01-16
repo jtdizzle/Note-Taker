@@ -8,15 +8,14 @@ Github Repo: https://github.com/jtdizzle/Note-Taker
 
 # Description:
 
-The user will be able to takes notes, delete notes, and save notes for future usage.  If the user refreshes the page no saved information will be lost.  
+The user will be able to takes, delete, and save notes for future usage.  If the user refreshes the page no saved information will be lost.  
 
 
 
-![index](jpg)
+![Screenshot heroku note taker](https://user-images.githubusercontent.com/87590712/149674004-14e539cc-6e2c-4b56-a151-9b574ce85f3f.png)
 
 
 
-![notes](jpg)
 
 
 
@@ -28,3 +27,4 @@ User is able to access the application from the Heroku link provided.  User is a
 # Usage:
 
 User is able to access the heroku link provided above and click the "Get Started" button to begin. 
+
