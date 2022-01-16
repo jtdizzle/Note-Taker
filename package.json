@@ -9,6 +9,7 @@
   "author": "Jonathan Taylor",
   "license": "MIT",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.16.4",
     "jquery": "^3.6.0",
     "uuid": "^3.4.0"
@@ -16,5 +17,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jtdizze/Note-Taker.git"
-}
+  }
 }
