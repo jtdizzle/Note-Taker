@@ -1,10 +1,9 @@
 # Note Taker:
 
-Heroku link:
+Heroku link: https://mighty-mountain-98025.herokuapp.com/notes
 
 Github Repo: https://github.com/jtdizzle/Note-Taker  
 
-Deployed live @  https://jtdizzle.github.io/Note-Taker/
 
 
 # Description:
