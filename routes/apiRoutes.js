@@ -22,7 +22,7 @@ module.exports = app => {
             let newNote = req.body;
             noteInput.push(newNote);
             updateDb();
-            return console.log("New notes have been added: " + newNote.title);
+            return console.log("New notes added: " + newNote.title);
         });
 
         //get and delete request for saved notes
@@ -33,7 +33,7 @@ module.exports = app => {
         app.delete("/api/notes/:id", function(req, res) {
             noteInput.splice(req.params.id, 1);
             updateDb();
-            console.log("This note has been deleted, ID: " + req.params.id);
+            console.log("Note has been deleted, ID: " + req.params.id);
         });
 
         //append and display notes input to html page
