@@ -2,7 +2,7 @@
 
 Heroku link:
 
-Github Repo:
+Github Repo: https://github.com/jtdizzle/Note-Taker
 
 # Description:
 
